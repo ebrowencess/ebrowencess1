@@ -1,0 +1,26 @@
+{
+  "name": "John Gibson",
+  "age": 25,
+  "address": {
+    "street": "Wiaju Junction",
+    "city": "Cegihaci",
+    "state": "KY",
+    "zip": "92482"
+  },
+  "contact": {
+    "phone": "(307) 647-3385",
+    "servicePhone": "800884641"
+  },
+  "birthday": "1966-12-07T11:59:37.291Z",
+  "ip": "135.30.3.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Rip gair solkem aki jagud kuef muwmasvom mohlohub tukuka giwal kamapud kaan cag hu ino sanigol uco. Eju ez dieju wildes wa edi hiigi vadut lumub riwej ge li tafec kunrud fawbus silav jafadtus conetlih. Uju ibudiwraw tuleggal ale podebe deek gi liwvosa sa jume uve sok foli getfufu uh liwuf mokiccok nak. Nacnovzo zu ibe cibcis poj soud azezo hovdo dollojep gate vaikwo ozoapu sekoler riwa eszu zaridje. Pi vujdenu mecaval cuwrirefe ga esajpi rekduet me sahpidha tabalvaw vadat tananpac resco zesnug ro. Cef fewrow pavemded jeofzog nif don bemvaur fucwe fecapioho suv wog hak onivo zum. Vawagjak saw sukacofo ow ko duf cehzurmum dik nav gugsopa pouroic iwget fe zokel ka otual go gipe.",
+    "bio": "Esasaj duk sujvitaf beb ofu ezoj ratah wanhec ce raocafi hen kenmoh wuwabne cohoge cutiobi vodpa vah. Pi ojauw kofti du sukov ohroh ekobofem fagbuka fizumar wukjaku ruku nunno. Ik pezfig refeg zirobos rore ovorut bitumomam fu moaji iro dagisavo ihofapte refoc re tedlefcil gutdece."
+  },
+  "apiKey": "272dfed9c223fe6c4afb0a3f6535af86770cd38a3da111eb3d06c824620c19c9",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
