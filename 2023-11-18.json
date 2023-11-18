@@ -1,0 +1,26 @@
+{
+  "name": "Franklin Lane",
+  "age": 23,
+  "address": {
+    "street": "Fuguj Manor",
+    "city": "Idmaab",
+    "state": "NV",
+    "zip": "19613"
+  },
+  "contact": {
+    "phone": "(685) 274-1152",
+    "servicePhone": "800317734"
+  },
+  "birthday": "1982-11-13T11:57:01.099Z",
+  "ip": "217.17.117.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Ra limari unpu pinlugic izja zepcok fa amuhek hofrilo pu zuhuj emdenhit suibu. Owdahuf lo dibu zi fetso pouwi wichit dalzobwu melureb befa ece suidwun. Esho zizreho ifalew lobegen nif cavidmit wohwa ori kem si lakte ru.",
+    "bio": "Ugorouto gevmohfup dusu ic huw kuedhew ovcas mahpuz meffehmi awunpo taojede mol dofhutem na heconzos suh dez heplut. Gukow hafu bos nooc ilisun pal wejeme uriamizu hazmi nev vekju sanu ad zovje cip tim er papa. Et jakojke ge fom wet fibwobe tazwuomi upnire nuspiw halo geukiec juptocuti igeme gidmurkez."
+  },
+  "apiKey": "8ce5968d2718b8b5d64f1a2c72dc20b384653b08cbdf217132f677e59ad2962a",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
