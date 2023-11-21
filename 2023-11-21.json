@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Patrick",
+  "age": 28,
+  "address": {
+    "street": "Hohal Circle",
+    "city": "Ugebajap",
+    "state": "DC",
+    "zip": "50857"
+  },
+  "contact": {
+    "phone": "(717) 750-9248",
+    "servicePhone": "800776281"
+  },
+  "birthday": "1975-11-08T13:13:48.488Z",
+  "ip": "114.222.218.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Lulalu nonigtiz kohowu bihzu emitoj himelu du ac gucujo ziw ivahec wijudu. Zesu babo fiwvutdi asfoaho zarpamcah hiciken litoasi deluh femu vuf kuwkuhsu sihimili hapa ro. Pesze fismarim jaf bedsubap ca ije kudsadtu saj of ral jajcevis heme wohlo kog gaono wone votivjud buboisa. Ne bizhig wa zohizo nujizja tu no ca sugev kav zep mafoh tamu sisafuce unemo lub elhajsi fi.",
+    "bio": "Pecka pe momidesid jut burke foboror heh cowcav pible feceh sofput ris. Degejpoc dumlurkaw uc fimozafu co ebi waonvi sawso onosi vospovo hapuhi tecwevgag. Koucaki eg uhagufudi zidewa savrul id ah vese hakoaga jo luhlobzos sahmike lin oncusefi le afa fahow. Vad rokbazli pegnar hemo povlujku nebef cov naw uhoewmo forep ramew dicpor sopi nu ojiikvo. Zufleshud zofur haslun eweil ri imosu he lorud ik muj icda fezuza himokap licamowe kodvoknof huho kocaor."
+  },
+  "apiKey": "c544dc5e1f4a0f3e8368834936e2f0f472eecc139f13ff53a2803689bb127578",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
