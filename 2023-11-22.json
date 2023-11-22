@@ -1,0 +1,26 @@
+{
+  "name": "Warren Fowler",
+  "age": 64,
+  "address": {
+    "street": "Gohbe Street",
+    "city": "Towezpit",
+    "state": "NV",
+    "zip": "77427"
+  },
+  "contact": {
+    "phone": "(709) 758-8720",
+    "servicePhone": "800792858"
+  },
+  "birthday": "2001-02-25T00:31:33.618Z",
+  "ip": "43.187.239.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Zonju gaopiop lu ri vogavsu hatkazhur wemgawdug pojun ne diswup uz gulefzon gifiggig gu hihepat asoefetaf idved. Jevhet ho uluva vabdirja ruip ope huheke jivawidat wot sevece coj vut fanol ripto korbo izut dinen ocrugter. Subgeup sammam lo feruw elbaroj do gegib edavipaf rowoec bez nat akzazcaz foc jala pel cagitru.",
+    "bio": "Lekuwun gazmes zegzewro aha bez sithata sodkoge ocaduv pefe sodujge dugohvu ernugli bi sudutna gosockeg. Iloc ebu nofol obecu ne utitta giris bilamun len vep ce gubvoit awhod cukdepwo seho tehuv logak warsenij. Jiv gabeh dit je wospamo cebu vuwis ajivek buwu re ned cokuh golugap rej vible."
+  },
+  "apiKey": "a190a8842da98bcd3ba364ca990fff1a2fa2cbd3386b86b0fdb128e314dd88cd",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
