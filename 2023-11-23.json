@@ -1,0 +1,26 @@
+{
+  "name": "Richard Kelley",
+  "age": 47,
+  "address": {
+    "street": "Ileka Extension",
+    "city": "Uhbojon",
+    "state": "WY",
+    "zip": "10358"
+  },
+  "contact": {
+    "phone": "(319) 879-1584",
+    "servicePhone": "800298616"
+  },
+  "birthday": "1979-12-05T06:56:43.237Z",
+  "ip": "51.20.196.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Mujli cejjodjo sew wi vem fiku witho cazuhvij de fofuvere oclen melpil. Amkijaca nuho kawso rihmu kasci kantanaf kelrodjiz bobaf lukpor kogic losmuki kejimfe gippifem cop bo onzu aha ilehuhe. Abwe puin ge acnutgap zuz hipojbo agifem eze pofcozuj bal adedo badzazud ce dew eg seetpot nojadje zoume.",
+    "bio": "Burjonvup temlo ziz savuz gemfofu hoc ka zaose onap kabtugka rutsac lac ko ticasnuc kucagpez kuhaga avted nugdab. Tonalze mudetbuv geihbig sun ut senfup ot odupecoso gatis bil za situ latlipiz gokvozonu amu guke vaut. Jowep voju mu vignot wi bufni zugpavlu heefavo ko hozmiwo lefume ijvoz. Ace miraz head ebsonu woknej omolu deweheze noce wukec ro lavtizi ednuwoz itvunaco sucujed neg purac."
+  },
+  "apiKey": "2195bd2c7e499227e376adc45da655b1cf1ce82d5a816813d9706b1dc30c6a3e",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
