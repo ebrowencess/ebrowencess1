@@ -1,0 +1,26 @@
+{
+  "name": "Evelyn Rios",
+  "age": 55,
+  "address": {
+    "street": "Fekuza Pike",
+    "city": "Nojaus",
+    "state": "WY",
+    "zip": "12437"
+  },
+  "contact": {
+    "phone": "(407) 339-2323",
+    "servicePhone": "800618749"
+  },
+  "birthday": "1963-10-02T12:42:20.936Z",
+  "ip": "123.255.103.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Su divot vu waczofel wewi tajinu awanu ebde wu rolasu luwefpa an son fohok otu. Vejejka baovpi wihunib or nir eme wen engevu gutusku ucte lupen ewagaf safga erabig menhi wen. Nocekdu loju tij selgoudo siztehi fotepim at wunow soric tic fov zot pefi rib rij. Nogal worde kitoem ulecarin joos wuwzirip rorazob rijifu tomajwo beji sujte jum.",
+    "bio": "Nabiv ti ka denhuecu ke ozono emonufo cep cunju pabno effauro at latihos. Tocsur behpuwe zibur muker sazuad imzu coflu fu mi torotdar sisfeg ati. Ebuzizti umiacah etifa wiid ivli nion ad igbimfuc mu biceup ow mangiweko donucpo wuozoca obecow lo kunhocra ufelohsun. Nepeh ovhij so fi kubzeur vi daw ziedge mu fup piwav ropobet votzicduc cobkeceb bulifmo."
+  },
+  "apiKey": "721acec9d4214db236e8c346e6af4c32b2e0e7d05cf3fb155053be64faf13fa4",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
