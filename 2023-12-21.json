@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Guerrero",
+  "age": 27,
+  "address": {
+    "street": "Cabu Circle",
+    "city": "Gilunoz",
+    "state": "IN",
+    "zip": "53142"
+  },
+  "contact": {
+    "phone": "(362) 448-1219",
+    "servicePhone": "800782217"
+  },
+  "birthday": "2004-07-30T14:05:05.260Z",
+  "ip": "141.203.23.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Oh aweer ol ne arika wodgutor ojbedzes juv nu veloranas bisimok is huak hejted. Ude wina bi ku zasepdi he lac lekaba cira mazop huohipew mahegi zohmemte pibva bi. Ziv kuv ol jeudguv detde mogrowe gehud juiwzo pepvu dine zeasu pik zaw melkig uwa eg biolkeg ped. Duz nocta zeuz tornutcu isadiziw nila cubuzeraf adfigvi uma ipce cem dej cuz. Vebi ofo medan ul caj cetiwaz pis cojuki cu urufedib mer vulapweh da vebusug hi obazow ga hommi. Naihte mad tammogve konwuf mutkubco zina jabzorak so ezcu wa cavolbul cak life.",
+    "bio": "Vo seesi ul foha mi konel tinamug ote ir idehujur vubze vedoso rebav las giciwma. Jidhi atedub ja roros sutej fitifa raosag kezogsic fuk al etkelu igino va luep ape fekwoc. Um kidu biwiira ti vaumosa ba tosu icesotil huv couzu buccicod gugkuvsuz odnoksa kuv. Om degeuh zepoz lijommit suh en hi codtizojo tod jetbu vengappij jewebi kusovca. Redu fomuf ce ukloni inu li eze be watzapmiw keho ga di ecave."
+  },
+  "apiKey": "e1a7dbc6503e093488279bd14f5f9c49c9faad1bb02827442859fdb0fefc4e34",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
