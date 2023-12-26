@@ -1,0 +1,26 @@
+{
+  "name": "Nathaniel Walters",
+  "age": 23,
+  "address": {
+    "street": "Ladwo Circle",
+    "city": "Eciunuvu",
+    "state": "NY",
+    "zip": "67047"
+  },
+  "contact": {
+    "phone": "(600) 699-7618",
+    "servicePhone": "800737455"
+  },
+  "birthday": "1986-02-11T12:38:28.146Z",
+  "ip": "54.253.47.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Goj pibo rij fezog vimes fovu de mo fehlidmel cogonjuk zahi babboos. Ifwi befenvu ja puguhmeh wijjekkuk peh zotgera pur nigu eticamjuc cab wapaaba ozikozom isavazpuw. Roz jatirja na hazofak ku rac gil moz te pit lipam uh iwivuovu.",
+    "bio": "Goguf abogiged wan etizober ze pifen cih nu nipsut zesweki logugu vupceb mulak avapo. Orzekuf leftus pigehtoz utiil wozusjuh ero de ec waj wopjim mif fusohej tuki. Sizvil fov wupoin dimaw esa fehwavik pidmeb dezji jazocievi okaanuma dec irkigsa ubiiko ikegohrog wujozo. Jo tekwe wefpi tanmo afefewkew igta rabe zefo vipiniso duz megovho risi upoupde tesogidet sum gus dat mo."
+  },
+  "apiKey": "e1028f442e4248e49dea328e2a00e894dbe762c1d02352e720fc84cac0e96d03",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
