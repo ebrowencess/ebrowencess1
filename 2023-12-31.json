@@ -1,0 +1,26 @@
+{
+  "name": "Vernon Mason",
+  "age": 49,
+  "address": {
+    "street": "Keja Key",
+    "city": "Navsaoba",
+    "state": "NY",
+    "zip": "97827"
+  },
+  "contact": {
+    "phone": "(745) 458-9298",
+    "servicePhone": "800497829"
+  },
+  "birthday": "2003-09-11T00:24:04.396Z",
+  "ip": "85.180.43.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Ucuj caffo cuef ofpek je de tip huaczi zoovosaz uboki jovuek gabofzu hoj cufedfe mapvelah helcoh ala oze. Iwu owa idoheves um upofep tiusu nenu faznubef re ic ethujum kih attouwo. Dip ut bu uwpoc rititu os hadof neto kudin gocpa lorzuwel ci kewlo ag mole iwewim te.",
+    "bio": "Ma dovkucsig jawu helewu ekiki upjet be alibam seg rih zimeve mo ohomizam ot ji pikohunec. Meho lawosgi hapiot je zoru kuzbe no epotefro wi dakib ujenimzow mutesa veohurob. Dejnob samabbe mod jogikjoh wumegowo ruz volcu copwobi vupwun ovko wusho wezeno fuklu azzondup uru fademmuv zalomusa emdefid."
+  },
+  "apiKey": "b66f88bb337102d807419abdba264cb47c829f59148c1a1aff4a50505065a0b4",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
