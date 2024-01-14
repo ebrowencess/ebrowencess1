@@ -1,0 +1,26 @@
+{
+  "name": "Maria Vasquez",
+  "age": 26,
+  "address": {
+    "street": "Wijmo Key",
+    "city": "Jasaij",
+    "state": "CO",
+    "zip": "79804"
+  },
+  "contact": {
+    "phone": "(741) 688-9936",
+    "servicePhone": "800475459"
+  },
+  "birthday": "1999-01-13T03:46:28.250Z",
+  "ip": "159.227.93.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Bufhad fajfar to pod sihpewob eluari hu pew jegi ijubegol fekemwuz vepvidip fodupeg acigadca. Ebuguzma homwian bomekaci kuisvi muabob onawewho go ronbali kaj lih oznu bimugukud dogicec me. Ula cutvasbuk nuatapop icnov du gac jorgatlac rok sosci docra laj wufoh agpeb johfiz duvonefa co muc kom. Zukvu tuflesol ke am kevdenu mozaj epulin ba luna hiwob og wunuk wujigi kogra.",
+    "bio": "Danlod bepir hic bitral cawbev nazsomgo koluwo nuz wehatzi come umasi awege sujuvo nazad doh ni fo. Hijahuged nejil hinag izi emgagma lom re ciamege do haafaes jonjut uwa amreh. Zefuhi buol nosurki sav eciji wizenena be pohiva vecubil wor okijiron ovvam wipegu simuru hoar ro. Gud ij ek rucnoz ceca fubuztun tojtu mer gulrejped utba ihube bomake vewabi wedadi ed. Zo ho onudebel fulibeto rege nukfones po vozvaz haogotid ju dawuj lolvo noeto adboota."
+  },
+  "apiKey": "7b510f360db7f2eee97a0b36f07bf428faf3b73d228b69d6dd210116e8956fd8",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
