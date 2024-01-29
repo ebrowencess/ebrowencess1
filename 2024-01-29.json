@@ -1,0 +1,26 @@
+{
+  "name": "Justin Barnett",
+  "age": 30,
+  "address": {
+    "street": "Becreg Square",
+    "city": "Muzzuwfen",
+    "state": "WI",
+    "zip": "49438"
+  },
+  "contact": {
+    "phone": "(967) 956-8813",
+    "servicePhone": "800225778"
+  },
+  "birthday": "1984-04-02T11:22:56.290Z",
+  "ip": "156.37.29.7",
+  "foo": "bar",
+  "profile": {
+    "about": "Jigzo za we em dok ga ih apsi virlov azutiob amjuse ufukakje. Cidjot misoj gofsim eg he ziwdi nonic sob ukudelar jermow los asi pepvop tetpovuj ak pomagvi amuwek zosowej. Am denow sihni ehuka ba umabik buvon ucta fidro mah waluvna haiz jikun wi.",
+    "bio": "Ici af piw neg pigju sube cezav fe niahite ji co sarot tobo osomeb pifwihgi. Uhwew wi kiv niphepda ovbiom tait afajovih va fu camtuzih abuzo ceriz. Zi wu wiwsac fekvoz oczogo lafaf kik wuzotjo dileval gil robseketo gapife. Urpitdu ezla bufhufdi dut et jipav enzate afadev ahejile guti ebewigze bavo bunivpup ujce so ekder sihdan."
+  },
+  "apiKey": "2135f72e193b8af78e964b968013a2473701a413a096bd5112606bb1eaaff3e0",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
