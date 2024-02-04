@@ -1,0 +1,26 @@
+{
+  "name": "Charles Park",
+  "age": 61,
+  "address": {
+    "street": "Doel Circle",
+    "city": "Hudpibhup",
+    "state": "CT",
+    "zip": "67317"
+  },
+  "contact": {
+    "phone": "(702) 343-6215",
+    "servicePhone": "800573992"
+  },
+  "birthday": "2006-10-30T17:35:02.124Z",
+  "ip": "240.146.192.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Ili pirezbu kolat faem rew ade luzogfa tuw bi tijobop rok kuliltuh ve fi po. Vume dendu gi bavo jejofi amoc ruwi paned paldobmeg nu gicwet idifuzha ephorluw medut omi. Tehonju seh pawavune vitneva kuwivuk dal ra fit madhad jickub lejevto va dun uvnuzemu. Azwak vipambo ricketaje do sojhomrol waesce divcohi buzal lim cod minzinut wisbes. Et vemfeten deiv ewjag livnewcem jehla cosburcim giwofva vejnuop wo vibi ga hizdikda kaluj do edbedme riz bupsidab.",
+    "bio": "Ahumooto bit rofajuv vu jopo sos tesut ut maggop oju os zi dud latut cosgib lajwisfuf. Guso pomuosu jetfot pivpebu liucevit zapape gif laz ba lidci epooz hes sekmab caw ifoci kuh oloh. Ola sozsiom nub pizdihip iso luwila saipobuf jabaito abfu avuve ve se vinod mo cuhafule. Roosaga avejecit zuzsomge owaejo meh muij suha rewiger umianisid inolru gome zaculoaru midusga. Juosivo it luc ofji zurraf ema pubwaela hehwaso sevvujgaf zo iroto ilugaw dipjegaj opuniha lov akaabu wimce."
+  },
+  "apiKey": "df46adc5994fa55e9198e22030efb5479cbebeb475ef619d9bc1dbd5791a3e0b",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
