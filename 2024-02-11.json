@@ -1,0 +1,26 @@
+{
+  "name": "Peter McGuire",
+  "age": 42,
+  "address": {
+    "street": "Futgi Street",
+    "city": "Revatoc",
+    "state": "KY",
+    "zip": "60843"
+  },
+  "contact": {
+    "phone": "(933) 393-9632",
+    "servicePhone": "800166331"
+  },
+  "birthday": "1974-11-18T05:17:12.698Z",
+  "ip": "246.85.62.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Hi vur puucumu bivajocac ful vi ohluw ur menfu tihudbal abmout segbo ok jentid zavkow haf lafi edouma. Nara jafoeto ponkiwco omzew igud map cab tet upetip dife okpo kih parodlo. Ogi opu gif of edobo vaahopem vofdolna goc aweuc tik radfa ge na gidolec. Fu zobe feega tediheza vig bob futafo leazoane dit ve odijurak vavhioza sim owu wekfub gazef. Ki iw jehpi igdazeha komucaca kutoku befalgor utagaimo repe non riwopul usorin.",
+    "bio": "Gisa denev ufezfu pegge fuke kop butlig tosom eh joj pe tidfacobo jeocku. Kusaslu kar azimus dugu je la omkuwa tib digcan cavik ukpiwduh afevevgag upi defvukze bammet hebpoha wu. Negef moara zuz inuvuslon ed ukulapva mip denari guzaji evzewah siw iwuki bicu pecafu."
+  },
+  "apiKey": "f9e27b137eef4921c57bf1d710b4b7df61cadb6c6514c004c3de20fea8c90eef",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
