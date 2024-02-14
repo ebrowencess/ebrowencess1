@@ -1,0 +1,26 @@
+{
+  "name": "Andre Parker",
+  "age": 40,
+  "address": {
+    "street": "Puiga Drive",
+    "city": "Wikahno",
+    "state": "IL",
+    "zip": "54259"
+  },
+  "contact": {
+    "phone": "(430) 477-3111",
+    "servicePhone": "800893727"
+  },
+  "birthday": "1981-06-21T13:26:36.530Z",
+  "ip": "149.124.200.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Kag lo lideh ledum wen hivugig wezuwduz oloba kutbetluw vi ke acu sobahpe ke. Fa ijo nam umwu fuhe ahdegod luhsubta sios lilaju jilev go gazdihu ilozancol li oga bumotdi kisad rur. Vet vu gir tiv akapa mesiv gib rimja viodisan mejricbu wuel pep zumi ul zemsirab.",
+    "bio": "Su tiradfi repzos hapkevuv jirki gujuloh vuku vasu faz dojwesjal urri girhe hah ifioj nu coknaz. Rab wepup wumocja migu dazosna waneh hi rakes wehulen ra ejadib igciob vu fe mug ponul johgor amezi. Tu nolmugvo ezdati tow ki falbe nugri nigveop zodsi ut jitna cutfuzid. Faz movcirvu ojucekem soj pejcig igfecu nunohwof mecic teja ru fa sizifnod odufij wawpuvu. Jalluwaz zi wu abiibdi ruigo ziawfol fa guhocupal wujwomaj cehazizu in pirzurono dirgef."
+  },
+  "apiKey": "056ddedf2768deadd10f5f9d106f6373743c7c45074c2b8f8ec146dabfcbad17",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
