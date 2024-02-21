@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Fox",
+  "age": 41,
+  "address": {
+    "street": "Tega Junction",
+    "city": "Bemewik",
+    "state": "UT",
+    "zip": "81314"
+  },
+  "contact": {
+    "phone": "(443) 684-1151",
+    "servicePhone": "800247342"
+  },
+  "birthday": "1981-02-07T03:08:46.234Z",
+  "ip": "38.142.41.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Uh bibma pundal gujamo iro irnof donmemoc bovjob focvub tirjegri poet huc kitgi. Vovupab gottofir vazdibi umfowlos ne sefoepe ritaho cecjodmi hihzokmir eromi adjiw fuitiken ralu febkerhok hu eb. Wo lesol paehzi fahaket focinek winu pedtiz nig otbartuf ji ise di fedraje lunipjur awpuh mepbos ru.",
+    "bio": "Nubhekin cimrikken aralu hogrow cofmuf pigujti okiudobo lewo no enure racwe wosjep ta ker. Ofi acritote cil giretpuw momud molvas urikato cak hagij tullok gam jes migunap zesop. Cu gehagori rolino ce no mu becaz pajozze noj fe ruh weuviab. Huvug ochikro nueke tosifa uru fevticew ohu kuwap jikrujta if zeeh jiusa sowva. Zaruv naf weomuja bis mit bueci uzebip dofu benezo hib enun ta. Iganuj fuj bogte dulbojafi wosob tes avupa jig raj wi fijzen awozigic deow ki ri sohupom velo koizu. Tohjaj iv gokkag moceful vu zevilvu fajmaj decu fatfa garu hoj vobdej saiguol ajevo."
+  },
+  "apiKey": "02229638a835bbd85ee8110cf0edee8828958acc01365e576c70a1a1a58dd629",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
