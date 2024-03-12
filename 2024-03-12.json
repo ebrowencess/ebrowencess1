@@ -1,0 +1,26 @@
+{
+  "name": "Bill Gregory",
+  "age": 40,
+  "address": {
+    "street": "Opmo Lane",
+    "city": "Gunaij",
+    "state": "OH",
+    "zip": "26341"
+  },
+  "contact": {
+    "phone": "(345) 476-7075",
+    "servicePhone": "800568918"
+  },
+  "birthday": "1972-04-15T00:43:50.604Z",
+  "ip": "178.85.143.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Afi ewami powumtec gara uzeco sadbezap nuvurpe sesu ogobe owa wanino esofiw di cevedkaj zov ceczo. Nijvulmuc uchalewu tuvo durdabfit tigizno dagopa wi jonu cadcawa pu zo limjuso. Pavoh azoji dowbak zipbirel hikzen hig vupi laluw pumta uvbe citanwi jelracit muvo celi ahomigjit acoopvu uhucuktew siifoge.",
+    "bio": "Taen pohwu gogwuha wuetpi ufnehu wid insi avula guh feho idioji vakuh ijivam paavlaz fuopaap fuc akad sippowom. Dolej ic bunmu iru josed do odinfis hi virgokom oru hardel rilere ma eku sopjiis ku. Lioliuh jipokaeh wiwoji solugrav pofese idomiz pon majsujap rolu denle birunpo hid et gitco beav val. Sogag erepinac ci ros seig pedvustin rehlemah mogulri zidmuwu hoz vaur fos em itomoop cogi. Lo carot paf tek ofafofed pi mecidmuw gevror ate pear un sif zenbevkuf huvo hihouj dup cuciphij. Zot necosep uh ewzon dolpet ci ule isa ja zoniji wopu ifoha epotemu ruparhu usucu didvilfe. Polzaov bi erarejvir ra guwde udubiwbaw kelo gecic fo lim ite ir wicor tid zi gi bermuogi."
+  },
+  "apiKey": "351cf57682a2d76d4349ddbac29e35b27c23c450d18a1d60a1e23dd8dd22062e",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
