@@ -1,0 +1,26 @@
+{
+  "name": "Cora Ward",
+  "age": 32,
+  "address": {
+    "street": "Tavob Parkway",
+    "city": "Dovowguf",
+    "state": "NJ",
+    "zip": "69145"
+  },
+  "contact": {
+    "phone": "(277) 922-9528",
+    "servicePhone": "800724329"
+  },
+  "birthday": "1981-08-04T21:43:07.520Z",
+  "ip": "100.163.184.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Zovpem ka juvsebgu zitkobi lafupka so foasoz vi keje tovasi me tichagu. Dibi fibta uve oboc so nu bonce dab caskeh zonimla ogjar fahhic vizef fawnegov rafadpe. Iho efinaca codmanoh lugaja zeg aweve tikzog oloroti lacuhij cewowe lik ujuzohec af zol.",
+    "bio": "Ta ze lo sup levtiv karab fagkicke adu woh pe havut baowu zuc cu dibzo puka. Tusovac ar va mah el rospuro logeda cabtinuf ke gavmegava can omhejek. Guda anofbe bu eceejewib zow lepmuis rimehhu vitbo muwzibdel rep dulu ru kozwan sitah ses. Jedhalol zololjo womep gorirtog tebmube dewub idudo tokacokus pezac vaegpiw dugal sebof epamu cu foko."
+  },
+  "apiKey": "becca8a72b17a2b0852546e3ec0cfdab8f407e154bc5477fe798cfb6be818e94",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
