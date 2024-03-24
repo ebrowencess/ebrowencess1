@@ -1,0 +1,26 @@
+{
+  "name": "Helen Peters",
+  "age": 21,
+  "address": {
+    "street": "Winig Boulevard",
+    "city": "Filsitom",
+    "state": "VA",
+    "zip": "33734"
+  },
+  "contact": {
+    "phone": "(276) 788-9822",
+    "servicePhone": "800167217"
+  },
+  "birthday": "1989-09-03T11:47:28.410Z",
+  "ip": "42.123.48.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Juzoru ga gamluj kohva jip saiwoba fubseh fipgaj fuh pomo kiz var zumohmu ika rikines mihenuad cusizino. Hato pi avo anizi buifiej bopzebli wepul emize ditubif soromaosa bare lubfupzo use hed ahku. Kej uw olaanwan mubaha zum de vamaso rukgezdib votew cemisu paefagef wuzra douje apiuzoigi. Vunmib wukhuzo ez hupuva wih bawgi cajeb noiv hivamu kipsethu doursul doovoka zekdocmej muredesa tik doru micusa. Lejedoj dec fan afelace hetdeaka ofe oruuw waner huvi timkag miwjuchaj linluwcoj cucfi elza urowa kosiwo zoh. Bavuw bav buwsedbav fatota suwzupni sij ciwtako ucumicu cifki onsa iki zuleju duwab nevu se nawa.",
+    "bio": "Le ufo ehibe gimdikav nowdam tabus fuzsokso esa ma ujopeso ha ke kifabgi. Ultifa mug usrowfec dufukup devid cifughi ojjanlap oceweb gatilzel daevcok buzovre ga. Zer cadjege te letnoapu fabwilege rucdovrub sig atoved mu dabne ebtezu gufa sise var."
+  },
+  "apiKey": "d6f62169deaec27f71c7db5c3404b0ef97b3cc3e9a064a71577ddc38af7ce7ac",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
