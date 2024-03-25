@@ -1,0 +1,26 @@
+{
+  "name": "Marc Thornton",
+  "age": 53,
+  "address": {
+    "street": "Juhfoz Circle",
+    "city": "Ubaroser",
+    "state": "AR",
+    "zip": "25681"
+  },
+  "contact": {
+    "phone": "(769) 676-7703",
+    "servicePhone": "800897328"
+  },
+  "birthday": "1959-07-26T06:51:44.749Z",
+  "ip": "133.14.62.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Oreotsos cahuw ira ginu hu fofug osiuku ubiwuzini le fekna mucu awe pu vagis jeghecmis mu. Oszutap otroote wenoknet verlavota ijetoku fian coper ojlesap ut gutcuatu uzi ke mozino vocfi fuifevi tuela. Da ujeib sor ti se inoebufab jos zon ba giwu to jertildun fak jusfe sosuweh.",
+    "bio": "Se va nehepeg azasumo wa reka hu ador luziwo noju vujvume omajag dupevisi. Dohehhu pod jejjawu iw des mucre tickacfa zojfigkop mas fimfivson gatas mavnawab. Paj conag ledef detsuih moute ubaongef suuhak tujelwo latvurga zoj wagbifka matbuoso nav rajditu ul."
+  },
+  "apiKey": "f777f1be58e74cc0de028aba21ef1206a43ec362a3ecf7eb78b300762204698b",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
