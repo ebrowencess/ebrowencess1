@@ -1,0 +1,26 @@
+{
+  "name": "Kate Stevenson",
+  "age": 25,
+  "address": {
+    "street": "Usuti Square",
+    "city": "Raktise",
+    "state": "IN",
+    "zip": "35480"
+  },
+  "contact": {
+    "phone": "(459) 314-1111",
+    "servicePhone": "800642337"
+  },
+  "birthday": "1996-03-20T07:56:47.535Z",
+  "ip": "22.126.60.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Vip ke ho haguba ma naf hoblufwi abu irumi ifotuji sispi sodo ca hehusloj zafazzad. Veluj doma godici caw otamopgu futcoeru osesijed sajduwo cuzetaesa evnit pof riljaw iwece bihune me kijcewa kalfo. Repogsos geohece caededel ram iz ujis gehoh tih rulufhan wadtosepa les afu le. Evumaw wok pab cadwoja ulurojsog vipov sud ubaagago rapwazeh ewiib mofubci bugu va epjezme dac.",
+    "bio": "Pe ehu kav koj tefho tu pi cijer vow itnovzed uwpu zabi beh akosaevi usju. Ko watjaj muk olfiti bi nul emi apruza hafobmi izjaw fitov eroruvvi cah hiwegut gus. Suj cebegjum giunlud wuvsitsid bijmic kasom peclofos nit didlas ribiski riuv akunez vuma."
+  },
+  "apiKey": "ae95d0b412d94541584e787992d8b19a78039043d67d9051692b1978e1098e96",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
